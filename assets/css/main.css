@@ -161,10 +161,11 @@ input, select, textarea {
 			color: #ffffff;
 		}
 
-	.fab {
+	.fab, .fas {
 		font-size: 30px;
 		margin-right: 15px;
 	}
+
 
 	strong, b {
 		color: #ffffff;
