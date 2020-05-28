@@ -112,10 +112,21 @@ input, select, textarea {
 			transition: none !important;
 		}
 
+#project-description {
+	color: rgba(255, 255, 255, 0.9);
+}		
+
+#profile-pic {
+	display: flex;
+    float: right;
+    border-radius: 30%;
+    margin-left: 75px;
+    width: 20%;
+}
 /* Type */
 
 	body, input, select, textarea {
-		color: rgba(255, 255, 255, 0.55);
+		color: rgba(255, 255, 255, 0.7);
 		font-family: Arial, Helvetica, sans-serif;
 		font-size: 16.5pt;
 		font-weight: normal;
